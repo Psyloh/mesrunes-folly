@@ -1,6 +1,6 @@
 # Mesrune's Folly
 
-[!](mesrunesfolly/resources/modicon.png)
+![](mesrunesfolly/resources/modicon.png)
 
 A small Vintage Story mod changing rooms and cellars size
 
